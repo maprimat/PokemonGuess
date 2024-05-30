@@ -1,24 +1,11 @@
-# m6-s5-d17-desafio_prueba
+# Aplicación VUE - Pokemon Guess
 
-## Project setup
-```
-npm install
-```
+Prueba final del Módulo 6 del curso _**Desarrollo de aplicaciones FRONT-END TRAINEE V2.0**_
+## Authors
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+- [@maprimat](https://www.github.com/maprimat)
 
-### Compiles and minifies for production
-```
-npm run build
-```
 
-### Lints and fixes files
-```
-npm run lint
-```
+## Demo
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+- [Demo en Github Pages](https://maprimat.github.io/PokemonGuess/)
